@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EdCheatah
-- 👀 I’m interested in explore the internet :D
+- 👀 I’m a Freelancer
 - 🌱 I’m currently programming
-- 💞️ I’m looking to collaborate on the best work!!!
+- 💞️ All my work is done with the best quality
 - 📫 How to reach me: DISCORD: @edsaru_ LinkedIn: linkedin.com/in/edcheatah/
 
 <!---
