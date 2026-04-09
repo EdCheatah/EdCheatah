@@ -1,10 +1,19 @@
-- 👋 Hi, I’m @EdCheatah
-- 👀 I’m a Freelancer
-- 🌱 I’m currently programming
-- 💞️ All my work is done with the best quality
-- 📫 How to reach me: DISCORD: @edsaru_ LinkedIn: linkedin.com/in/edcheatah/
+## Edmundo Sanabria / EdCheatah
+Full Stack Developer · Bolivia
 
-<!---
-EdCheatah/EdCheatah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Systems Engineering student building real production systems.
+Currently freelancing — most recent project is a full membership
+management platform with QR access control, admin dashboard with
+financial KPIs, and role-based auth.
+
+**Stack**
+`Next.js 16` `TypeScript` `Prisma ORM` `MariaDB` `Auth.js v5`
+`Tailwind CSS v4` `Zod` `Recharts` `Mux`
+
+**Building**
+E-commerce · CRM/ERP · Membership platforms · Landing pages
+
+## Github Stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=EdCheatah&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+
